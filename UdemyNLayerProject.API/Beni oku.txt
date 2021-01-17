@@ -1,0 +1,4 @@
+ilk önce view den view in browser de apı ye
+sonra web kısmına gel orda da view in browser de
+google çalışsın
+localhos/4534/categories yaz web açıldığı zaman
